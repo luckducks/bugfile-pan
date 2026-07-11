@@ -1,0 +1,13 @@
+web/node_modules/
+web/dist/
+web/tsconfig.tsbuildinfo
+tmp_bigfile_test.txt
+*.exe
+*.test
+*.out
+bin/
+coverage.out
+.DS_Store
+.vscode/
+.idea/
+.git/
